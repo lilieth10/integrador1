@@ -3,7 +3,10 @@ body {
     padding: 0;
     font-family: Arial, sans-serif;
     background-color: #fdb7e8;
-  }
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
   
   header {
     background-color: #e668e9;
