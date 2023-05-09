@@ -1,11 +1,9 @@
 body {
-    margin: 0;
-    padding: 0;
+    margin: 3px;
+    padding: 2.5px;
     font-family: Arial, sans-serif;
     background-color: #fdb7e8;
     display: flex;
-    flex-direction: column;
-    align-items: center;
 }
   
   header {
