@@ -17,7 +17,7 @@ body {
   }
   
   
-  img {
+  .img {
     display: block;
     margin: auto;
     width: 200px;
@@ -55,7 +55,7 @@ body {
     color: #46c2e4;
   }
   
-  img {
+  .img {
     max-width: 35%;
     height: auto;
   }
